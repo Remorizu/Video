@@ -1,0 +1,11 @@
+# clone this repo 
+$ github clone https://github.com/remorizu/github.com
+go to mirovideo and mirotalk dir 
+$ cd mirovideo and mirotalk 
+# copy. env. template to. env( edit the video and talk of the video conference with specific features that improves the video call clarity) 
+$ cpcp . env. template . env 
+# install dependencies
+$ npm install 
+# start server 
+$ npm start 
+
